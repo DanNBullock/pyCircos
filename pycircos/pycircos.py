@@ -12,8 +12,8 @@ import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.path    as mpath
 import matplotlib.patches as mpatches
-from Bio import SeqIO
-import Bio
+# from Bio import SeqIO
+# import Bio
 
 matplotlib.rcParams["figure.max_open_warning"] = 0
 matplotlib.rcParams['ps.fonttype']       = 42
