@@ -1,8 +1,0 @@
-- figure out how to default add a cleft to the top center, use this area to have figure legend?
-- figure out elegant way to handle tic marks  (maybe interior)
-- figure out way to scale figure elements (i.e. fonts, line thickness, tick mark sizes) with figure size.
-- come up with better way to pass specific seaborn calls to axes and such
-- implement a non warped -but still arc windowed- plotting mechanism (e.g. for "world" images, anatomy etc)
-- implement outer labels / color swatches
-- implement interior chord plot
-- implement mechanism for variable 
